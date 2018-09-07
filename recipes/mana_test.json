@@ -1,0 +1,18 @@
+{
+    "machine": "mana",
+    "registryName": "mana_test",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "mana",
+            "io-type": "input",
+            "mana": 22
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:diamond",
+            "amount": 1
+        }
+    ]
+}

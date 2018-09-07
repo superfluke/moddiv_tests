@@ -1,0 +1,18 @@
+{
+    "machine": "rotation",
+    "registryName": "rotation_test",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "mechanical",
+            "io-type": "input",
+            "level": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:diamond",
+            "amount": 1
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "machine": "coaldia",
+    "registryName": "coaldia_test",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:coal",
+            "amount": 32
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:diamond",
+            "amount": 1
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "machine": "coal2mana",
+    "registryName": "manaoutput_test",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "mana",
+            "io-type": "output",
+            "mana": 22
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:coal",
+            "amount": 1
+        }
+    ]
+}
