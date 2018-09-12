@@ -1,0 +1,18 @@
+{
+    "machine": "hotairoutput",
+    "registryName": "hotairoutput_test",
+    "recipeTime": 65,
+    "requirements": [
+        {
+            "type": "hotair",
+            "io-type": "output",
+            "temperature": 200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:coal",
+            "amount": 1
+        }
+    ]
+}

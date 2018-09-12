@@ -1,0 +1,18 @@
+{
+    "machine": "hotairinput",
+    "registryName": "hotairinput_test",
+    "recipeTime": 15,
+    "requirements": [
+        {
+            "type": "hotair",
+            "io-type": "input",
+            "temperature": 150
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:diamond",
+            "amount": 1
+        }
+    ]
+}
